@@ -26,6 +26,8 @@ Python, Jupyter Notebook, SKlearn, Machine Learning, Matplotlib.
 
 
 ## Screenshots
+![graph2](https://user-images.githubusercontent.com/29105619/148254803-fda01585-4208-47f2-bbf2-6b077f03c795.png)
+![graph1](https://user-images.githubusercontent.com/29105619/148254919-400302d8-f7c7-4747-a364-4e8bb5890c87.png)
 
 
 
@@ -76,6 +78,7 @@ Software Developer with experience of almost 2 Years working in different softwa
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/LordSomen)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyajit-pal-810283152/)
 
 
